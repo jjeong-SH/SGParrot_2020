@@ -1,6 +1,6 @@
 # Simpson Image Classification
 ### 2020-2학기에 PARROT에서 진행했던 mini competition 자료 및 코드
-최종 결과물과 발표자료, 자세한 설명은 해당 레포에 업로드되어 있는 pdf파일과 simpson_comp_final.ipynb 파일 참고
+최종 결과물과 발표자료, 자세한 설명은 해당 레포에 업로드되어 있는 **pdf 파일**과 **simpson_comp_final.ipynb 파일** 참고
 
 ![1팀 2nd comp ppt_1](https://user-images.githubusercontent.com/80621384/141467205-f3ccd631-ad56-4aca-b1ed-25894dd5e912.png)
 

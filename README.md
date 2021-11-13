@@ -35,4 +35,4 @@ Data Augmentation / Gaussian Blur 등을 이용해 하이퍼 파라미터를 조
 
 ## prize
 
-총 5팀 중 1위
+총 6팀 중 1위
